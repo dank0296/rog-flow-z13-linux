@@ -1,4 +1,4 @@
-# Peripherals — Keyboard, Suspend, WiFi
+# Peripherals — Keyboard, Suspend, WiFi, Audio, Camera
 
 Fixes for the Z13's peripherals on Linux.
 
