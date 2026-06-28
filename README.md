@@ -13,7 +13,7 @@ Everything you need to get the ASUS ROG Flow Z13 (2025, Strix Halo) running prop
 
 | Doc | What |
 |---|---|
-| [docs/PERIPHERALS.md](docs/PERIPHERALS.md) | RGB keyboard (asusctl), suspend fix, WiFi |
+| [docs/PERIPHERALS.md](docs/PERIPHERALS.md) | RGB keyboard, suspend, WiFi, audio (CS35L41), camera, OLED artifacts, fingerprint status |
 | [docs/NPU.md](docs/NPU.md) | XDNA 2 NPU driver, XRT install, AMD compliance wall |
 | [docs/GPU-ROCM.md](docs/GPU-ROCM.md) | iGPU compute, Ollama, ROCm on Strix Halo |
 | [docs/EGPU.md](docs/EGPU.md) | XG Mobile, supergfxctl, open-source XG_Mobile_Station |
